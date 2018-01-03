@@ -22,7 +22,7 @@ author:
   email: awayandabout@gmail.com
 name: tourisimo
 navigation:
-  - name: Travel
+  - name: travel
     id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
     type: content
   - name: equipment
