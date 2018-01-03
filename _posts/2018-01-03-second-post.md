@@ -1,16 +1,18 @@
 ---
 publisher: {}
-dateModified: '2018-01-03T19:41:39.861Z'
+datePublished: '2018-01-03T19:52:36.871Z'
+dateModified: '2018-01-03T19:52:36.206Z'
 via: {}
-description: 'Second post '
+description: Second post
 title: ''
+sourcePath: _posts/2018-01-03-second-post.md
 inFeed: true
 author: []
-datePublished: '2018-01-03T19:41:42.067Z'
+hasPage: true
 starred: true
 datePublishedOriginal: '2018-01-03T19:41:42.067Z'
-sourcePath: _posts/2018-01-03-second-post.md
-_type: Blurb
+url: second-post/index.html
+_type: Article
 
 ---
 Second post
