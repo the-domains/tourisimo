@@ -29,6 +29,31 @@ navigation:
     id: 3102692a-9266-4f44-85b7-9afa30480bb3
     type: content
 title: life’s an adventure - so live it!
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6c22b3-bdec-4d69-861a-bc5f9ccd6158.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6c22b3-bdec-4d69-861a-bc5f9ccd6158.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: travel around the UK and Europe
 url: 'https://thegrid.ai/tourismo'
