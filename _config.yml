@@ -1,15 +1,6 @@
-name: tourisimo
-analytics:
-  twitter: '#adventure'
+typography_spectrum: 0.5
 content_rating:
   adult: false
-github: true
-description: travel around the UK and Europe
-opengraph: {}
-title: life’s an adventure - so live it!
-author:
-  name: 'Bryan '
-  email: awayandabout@gmail.com
 color:
   lightness: 0.5253658177157319
   brandColors:
@@ -21,3 +12,19 @@ color:
   saturation: 0.17420944948080216
   brandStrength: 0.9317274661575741
   rhythmicContrast: 0.4988087656672133
+github: true
+opengraph: {}
+layout_spectrum: 0.5
+analytics:
+  twitter: '#adventure'
+author:
+  name: 'Bryan '
+  email: awayandabout@gmail.com
+name: tourisimo
+navigation:
+  - name: Travel
+    id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
+    type: content
+title: life’s an adventure - so live it!
+content: []
+description: travel around the UK and Europe
