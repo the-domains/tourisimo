@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[life’s an adventure - so live it!]]></title>
+        <description><![CDATA[life’s an adventure - so live it!]]></description>
+        <link>https://thegrid.ai/www.tourismo.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Jan 2018 19:22:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/www.tourismo.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First post </p>]]></description>
+            <link>https://thegrid.ai/www.tourismo.co.uk/first-post/index.html</link>
+            <guid isPermaLink="false">2c24e9cd-1f60-40ec-b972-c8e4e06dec36</guid>
+            <pubDate>Wed, 03 Jan 2018 19:22:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
