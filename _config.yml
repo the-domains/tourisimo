@@ -29,7 +29,7 @@ navigation:
   - name: equipment
     id: 3102692a-9266-4f44-85b7-9afa30480bb3
     type: content
-  - name: About
+  - name: about
     id: 533f97e5-e909-4afd-8151-2076c49c0c25
     type: content
 favicon: >-
