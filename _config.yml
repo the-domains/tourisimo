@@ -35,7 +35,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
-title: tourisimo .....life’s an adventure - so live it!
+title: tourisimo .....life’s an adventure ..... so live it!
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
