@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2018-01-05T08:41:58.346Z'
-dateModified: '2018-01-05T08:41:57.639Z'
+datePublished: '2018-01-05T11:32:08.033Z'
+dateModified: '2018-01-05T11:32:07.321Z'
 via: {}
-description: ''
+description: 'This is the Travel Page '
 title: Second post
 sourcePath: _posts/2018-01-03-second-post.md
 inFeed: true
@@ -16,3 +16,5 @@ _type: Article
 
 ---
 # Second post
+
+This is the Travel Page
