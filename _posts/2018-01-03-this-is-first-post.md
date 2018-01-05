@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2018-01-05T11:37:32.048Z'
+dateModified: '2018-01-05T11:37:44.625Z'
 via: {}
 description: ''
-title: Travel Page
+title: Travel
 inFeed: false
 author: []
-datePublished: '2018-01-05T11:37:32.767Z'
+datePublished: '2018-01-05T11:37:45.112Z'
 sourcePath: _posts/2018-01-03-this-is-first-post.md
 hasPage: true
 starred: true
@@ -15,4 +15,4 @@ url: this-is-first-post/index.html
 _type: Blurb
 
 ---
-# Travel Page
+# Travel
