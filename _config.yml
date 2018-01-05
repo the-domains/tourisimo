@@ -90,3 +90,6 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
     label: Facebook
+  - type: external
+    url: 'https://twitter.com/tourisimouk'
+    label: twitter
