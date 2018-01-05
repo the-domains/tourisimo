@@ -20,8 +20,9 @@ analytics:
 author:
   name: 'Bryan '
   email: awayandabout@gmail.com
+  url: 'https://thegrid.ai/tourisimo/'
 name: tourisimo
-url: 'https://thegrid.ai/tourisimo'
+url: 'https://www.tourisimo.co.uk'
 navigation:
   - name: travel
     id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
