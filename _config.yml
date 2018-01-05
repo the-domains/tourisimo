@@ -27,6 +27,9 @@ navigation:
   - name: equipment
     id: dae374a7-9a18-4e86-a239-d943de7d0a76
     type: content
+  - name: about
+    id: a33036ad-b720-4708-8b74-475d6dbe049c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
 title: tourisimo .....life’s an adventure - so live it!
