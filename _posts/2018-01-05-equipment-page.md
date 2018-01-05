@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-01-05T12:51:03.780Z'
-datePublished: '2018-01-05T12:51:05.052Z'
+dateModified: '2018-01-05T12:51:49.919Z'
+datePublished: '2018-01-05T12:51:50.416Z'
 title: 'Equipment Page '
 author: []
 publisher: {}
