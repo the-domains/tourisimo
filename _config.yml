@@ -24,9 +24,6 @@ author:
 name: tourisimo
 url: 'https://thegrid.ai/tourisimo/'
 navigation:
-  - name: travel
-    id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
-    type: content
   - name: about
     id: 533f97e5-e909-4afd-8151-2076c49c0c25
     type: content
