@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2018-01-05T11:32:38.583Z'
-dateModified: '2018-01-05T11:32:38.064Z'
+datePublished: '2018-01-05T11:35:02.839Z'
+dateModified: '2018-01-05T11:35:01.574Z'
 via: {}
-description: 'This is the Travel Page '
-title: Second post
+description: This is the Equipment Pagel Page
+title: Equipment
 sourcePath: _posts/2018-01-03-second-post.md
 inFeed: false
 author: []
@@ -15,6 +15,6 @@ url: second-post/index.html
 _type: Blurb
 
 ---
-# Second post
+# Equipment
 
-This is the Travel Page
+This is the Equipment Pagel Page
