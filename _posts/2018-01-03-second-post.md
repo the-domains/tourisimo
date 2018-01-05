@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2018-01-05T08:20:27.182Z'
-dateModified: '2018-01-05T08:20:26.642Z'
+datePublished: '2018-01-05T08:41:58.346Z'
+dateModified: '2018-01-05T08:41:57.639Z'
 via: {}
-description: Second post
-title: ''
+description: ''
+title: Second post
 sourcePath: _posts/2018-01-03-second-post.md
 inFeed: true
 author: []
@@ -15,4 +15,4 @@ url: second-post/index.html
 _type: Article
 
 ---
-Second post
+# Second post
