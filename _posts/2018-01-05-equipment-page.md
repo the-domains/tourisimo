@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2018-01-05T12:59:14.370Z'
-datePublished: '2018-01-05T12:59:14.865Z'
+dateModified: '2018-01-05T13:00:23.708Z'
+datePublished: '2018-01-05T13:00:24.092Z'
 title: Equipment Page
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-01-05T12:50:56.924Z'
 url: equipment-page/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Equipment Page
