@@ -21,11 +21,12 @@ author:
   name: 'Bryan '
   email: awayandabout@gmail.com
 name: tourisimo
+url: 'https://thegrid.ai/tourismo'
 navigation:
   - name: travel
     id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
     type: content
-  - name: equipment
+  - name: blog
     id: 3102692a-9266-4f44-85b7-9afa30480bb3
     type: content
 title: life’s an adventure - so live it!
@@ -38,19 +39,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6c22b3-bdec-4d69-861a-bc5f9ccd6158.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,21 +63,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb0470c0-16ab-4120-b4d6-782f9278a611.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: travelling in the UK and Europe
-url: 'https://thegrid.ai/tourismo'
