@@ -30,6 +30,9 @@ navigation:
   - name: about
     id: a33036ad-b720-4708-8b74-475d6dbe049c
     type: content
+  - name: travel
+    id: bc5d7bba-9235-465f-9417-25cabe5184ae
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
 title: tourisimo .....life’s an adventure - so live it!
