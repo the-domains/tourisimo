@@ -86,3 +86,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: travelling in the UK and Europe
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
+    label: Facebook
