@@ -26,11 +26,11 @@ navigation:
   - name: travel
     id: 30a63dec-9b1d-4b8b-9c97-321605e13db4
     type: content
-  - name: equipment
-    id: 3102692a-9266-4f44-85b7-9afa30480bb3
-    type: content
   - name: about
     id: 533f97e5-e909-4afd-8151-2076c49c0c25
+    type: content
+  - name: equipment
+    id: 3102692a-9266-4f44-85b7-9afa30480bb3
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
