@@ -1,41 +1,31 @@
-typography_spectrum: 0.5
-content_rating:
-  adult: false
-color:
-  lightness: 0.5253658177157319
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  saturation: 0.17420944948080216
-  brandStrength: 0.9317274661575741
-  rhythmicContrast: 0.4988087656672133
-github: true
-opengraph: {}
-layout_spectrum: 0.5
+name: tourisimo
 analytics:
   twitter: '#adventure #touring'
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
+    label: Facebook
+  - type: external
+    url: 'https://twitter.com/tourisimouk'
+    label: twitter
+github: true
+description: travelling in the UK and Europe
 author:
   name: 'Bryan '
-  email: tourisimouk@gmail.com
   url: 'https://thegrid.ai/tourisimo/'
-name: tourisimo
-url: 'https://thegrid.ai/tourisimo/'
-navigation:
-  - name: travel
-    id: bc5d7bba-9235-465f-9417-25cabe5184ae
-    type: content
-  - name: about
-    id: a33036ad-b720-4708-8b74-475d6dbe049c
-    type: content
-  - name: equipment
-    id: dae374a7-9a18-4e86-a239-d943de7d0a76
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
-title: tourisimo .....life’s an adventure ..... so live it!
+  email: tourisimouk@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -45,19 +35,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6c22b3-bdec-4d69-861a-bc5f9ccd6158.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -69,27 +59,49 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb0470c0-16ab-4120-b4d6-782f9278a611.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: travelling in the UK and Europe
-purpose:
-  - type: external
-    url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
-    label: Facebook
-  - type: external
-    url: 'https://twitter.com/tourisimouk'
-    label: twitter
+navigation:
+  - id: bc5d7bba-9235-465f-9417-25cabe5184ae
+    name: travel
+    type: content
+  - id: a33036ad-b720-4708-8b74-475d6dbe049c
+    name: about
+    type: content
+  - id: dae374a7-9a18-4e86-a239-d943de7d0a76
+    name: equipment
+    type: content
+layout_spectrum: 0.5
+color:
+  lightness: 0.5253658177157319
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  saturation: 0.17420944948080216
+  brandStrength: 0.9317274661575741
+  rhythmicContrast: 0.4988087656672133
+content_rating:
+  adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
+typography_spectrum: 0.5
+opengraph: {}
+title: tourisimo .....life’s an adventure ..... so live it!
+url: 'https://thegrid.ai/tourisimo/'
