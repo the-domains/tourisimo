@@ -76,14 +76,14 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: bc5d7bba-9235-465f-9417-25cabe5184ae
-    name: travel
+  - name: travel
+    id: bc5d7bba-9235-465f-9417-25cabe5184ae
     type: content
-  - id: a33036ad-b720-4708-8b74-475d6dbe049c
-    name: about
+  - name: about
+    id: a33036ad-b720-4708-8b74-475d6dbe049c
     type: content
-  - id: dae374a7-9a18-4e86-a239-d943de7d0a76
-    name: equipment
+  - name: equipment
+    id: dae374a7-9a18-4e86-a239-d943de7d0a76
     type: content
 layout_spectrum: 0.5
 color:
@@ -104,4 +104,4 @@ favicon: >-
 typography_spectrum: 0.5
 opengraph: {}
 title: tourisimo .....life’s an adventure ..... so live it!
-url: 'https://thegrid.ai/tourisimo/'
+url: 'https://thegrid.ai/tourisimo'
