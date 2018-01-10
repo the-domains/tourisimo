@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-01-10T15:44:25.969Z'
-datePublished: '2018-01-10T15:44:26.462Z'
+dateModified: '2018-01-10T15:44:57.496Z'
+datePublished: '2018-01-10T15:44:58.320Z'
 title: Meet the touristas
 author: []
 publisher: {}
