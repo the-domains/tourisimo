@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2018-01-05T12:52:09.909Z'
-datePublished: '2018-01-05T12:52:10.340Z'
-title: About Page
+description: rides a R1200 GS Adventure
+dateModified: '2018-01-10T15:41:41.448Z'
+datePublished: '2018-01-10T15:41:42.173Z'
+title: Meet the touristas
 author: []
 publisher: {}
 via: {}
@@ -15,4 +15,5 @@ url: about-page/index.html
 _type: Blurb
 
 ---
-# About Page
+# Meet the touristas
+![rides a R1200 GS Adventure](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0623c732-6ebf-4404-9387-74d7bc95bbf4.jpg)
