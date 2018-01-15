@@ -1,19 +1,40 @@
-name: tourisimo
+typography_spectrum: 0.5
+content_rating:
+  adult: false
+color:
+  lightness: 0.5253658177157319
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  saturation: 0.17420944948080216
+  brandStrength: 0.9317274661575741
+  rhythmicContrast: 0.4988087656672133
+github: true
+opengraph: {}
+layout_spectrum: 0.5
 analytics:
   twitter: '#adventure #touring'
-purpose:
-  - type: external
-    url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
-    label: Facebook
-  - type: external
-    url: 'https://twitter.com/tourisimouk'
-    label: twitter
-github: true
-description: life's an adventure .... so live it!
 author:
   name: 'Bryan '
   url: 'https://thegrid.ai/tourisimo/'
   email: tourisimouk@gmail.com
+name: tourisimo
+url: 'https://thegrid.ai/tourisimo/'
+navigation:
+  - name: about
+    id: a33036ad-b720-4708-8b74-475d6dbe049c
+    type: content
+  - name: equipment
+    id: dae374a7-9a18-4e86-a239-d943de7d0a76
+    type: content
+  - name: Travel
+    url: 'https://thegrid.ai/travel-tourisimo/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
 collections:
   - index:
       path: /
@@ -26,6 +47,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'tourisimo ... you weren''t born to just pay bills and die '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -35,19 +57,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/da6c22b3-bdec-4d69-861a-bc5f9ccd6158.jpg
     metadata:
+      datePublished: null
+      keywords: []
+      related: []
       author: []
       '@context': 'http://schema.org'
-      keywords: []
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
       description: ''
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -59,46 +81,27 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb0470c0-16ab-4120-b4d6-782f9278a611.jpg
     metadata:
+      datePublished: null
+      keywords: []
+      related: []
       author: []
       '@context': 'http://schema.org'
-      keywords: []
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
       description: ''
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: about
-    id: a33036ad-b720-4708-8b74-475d6dbe049c
-    type: content
-  - name: equipment
-    id: dae374a7-9a18-4e86-a239-d943de7d0a76
-    type: content
-layout_spectrum: 0.5
-color:
-  lightness: 0.5253658177157319
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  saturation: 0.17420944948080216
-  brandStrength: 0.9317274661575741
-  rhythmicContrast: 0.4988087656672133
-content_rating:
-  adult: false
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eeab174-b31e-47a9-8143-0bc73c28f38c.png
-typography_spectrum: 0.5
-opengraph: {}
-title: 'tourisimo ... you weren''t born to just pay bills and die '
-url: 'https://thegrid.ai/tourisimo/'
+description: life's an adventure .... so live it!
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/Tourisimo-1975299866042682/'
+    label: Facebook
+  - type: external
+    url: 'https://twitter.com/tourisimouk'
+    label: twitter
