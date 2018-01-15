@@ -76,9 +76,6 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: travel
-    id: bc5d7bba-9235-465f-9417-25cabe5184ae
-    type: content
   - name: about
     id: a33036ad-b720-4708-8b74-475d6dbe049c
     type: content
