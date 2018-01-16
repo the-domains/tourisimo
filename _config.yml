@@ -24,7 +24,7 @@ author:
 name: tourisimo
 url: 'https://thegrid.ai/tourisimo/'
 navigation:
-  - name: Travel
+  - name: travel
     url: 'https://thegrid.ai/travel-tourisimo/'
     type: external
   - name: about
