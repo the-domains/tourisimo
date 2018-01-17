@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: ''
-dateModified: '2018-01-10T15:44:57.496Z'
-datePublished: '2018-01-10T15:44:58.320Z'
+dateModified: '2018-01-17T15:12:29.861Z'
+datePublished: '2018-01-17T15:12:30.487Z'
 title: Meet the touristas
 author: []
 publisher: {}
@@ -12,13 +12,12 @@ sourcePath: _posts/2018-01-05-about-page.md
 starred: false
 datePublishedOriginal: '2018-01-05T12:50:23.694Z'
 url: about-page/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Meet the touristas
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/886d51eb390e1d1ff405ab55d6bd15ea/croprotate.jpg?cropheight=1932&cropwidth=2576&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F704bf857-25b6-4e4d-b17d-cd6142fa1200.jpg&x=0&y=0)
 
 ---
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/704bf857-25b6-4e4d-b17d-cd6142fa1200.jpg)
 
 ---
