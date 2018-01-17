@@ -1,20 +1,20 @@
-typography_spectrum: 0.5
+layout_spectrum: 0.771454519564378
+typography_spectrum: 0.7445549794339972
+color:
+  lightness: 0.1480750901620872
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.998281278559975
+  brandStrength: 0.9596988615160347
+  rhythmicContrast: 0.46370087617510325
 content_rating:
   adult: false
-color:
-  lightness: 0.5253658177157319
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  saturation: 0.17420944948080216
-  brandStrength: 0.9317274661575741
-  rhythmicContrast: 0.4988087656672133
 github: true
 opengraph: {}
-layout_spectrum: 0.5
 analytics:
   twitter: '#adventure #touring'
 author:
