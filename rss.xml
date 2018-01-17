@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tourisimo ... you weren't born to just pay bills and die ]]></title>
-        <description><![CDATA[tourisimo ... you weren't born to just pay bills and die ]]></description>
+        <title><![CDATA[tourisimo ]]></title>
+        <description><![CDATA[tourisimo ]]></description>
         <link>https://thegrid.ai/tourisimo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Jan 2018 15:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2018 15:12:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tourisimo/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jan 2018 15:19:54 GMT</pubDate>
+        <pubDate>Wed, 17 Jan 2018 15:12:31 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Moto Vlogging, or video blogging with a motorcycle touring flavour , is my hobby. I’ve always loved being able to read about other people’s travel adventures, especially those on a bike, but being able to watch their adventures is even better. </p>,<p>so now I’m sharing my adventures with you all ………. so enjoy!</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFkMFuwjAQRH_FWqnHxIRiQVEcfqInLmgdG8eQEMu7aYGvx21aqeqh3eNqd-bN1NSmEFkEqwEpFm4wzhbzEoRFxuIeLtZdNVSLzwHBt-g0sLuyPOEbfh-3HSZyrGHiY7EBQanV0DFH2kpJEdO5RDsaV7bjICN6N5uVJ4KmlrNKU6NoeyT6SdOHyxlEl9zxbz25Wu5f_XKRKn9f7WUGxeQ_gA6mxyzR1GHw_2P9kvmCjH5nJmKXdKUqpTbqZV2p5zUI7LMDj1MKFIYxx-Zbn-t5D5a7be7sCYQZk82PkLuTOSo2Dz-MfHg" height="600"></iframe>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJxNjsFqwzAQRH9FKKQ3WadAKZZzyh_kHrbyynJxJKMdR_Tvq5BgetnDLPPm9aRi4eB0BFb5shZ1Brh0Pt_tnMAJLWLG-XsDcrpFkgiaHI2P9tsKf7T6TYp3qO0eTxeEqpVfSMTpN828W-YF0WokkJGYq_F5S3A60CKsh-tzSh12eG9p6MWXeYUi-U1ePZd22XUhhFzu3X_rOo8TQ7ofaRqRinDjbwjmUw-9fcGGP94sWyU</link>
             <guid isPermaLink="false">2e533203-1b9b-4010-9381-7ebda28bf3ec</guid>
             <pubDate>Fri, 05 Jan 2018 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the touristas]]></title>
+            <description><![CDATA[<h1>Meet the touristas</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/886d51eb390e1d1ff405ab55d6bd15ea/croprotate.jpg?cropheight=1932&cropwidth=2576&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F704bf857-25b6-4e4d-b17d-cd6142fa1200.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/tourisimo/about-page/index.html</link>
+            <guid isPermaLink="false">a33036ad-b720-4708-8b74-475d6dbe049c</guid>
+            <pubDate>Fri, 05 Jan 2018 12:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
